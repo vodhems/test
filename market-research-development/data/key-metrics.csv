@@ -1,0 +1,22 @@
+region,country,city,price_eur_sqm,price_growth_yoy_pct,forecast_2026_pct,mortgage_rate_2026_pct,construction_cost_eur_sqm_low,construction_cost_eur_sqm_high,entry_barrier,overall_score
+Central Asia,Kazakhstan,Almaty,1500,15.7,9.0,7.0,,,high,17
+Central Asia,Kazakhstan,Astana,,12.9,9.0,7.0,,,high,17
+Caucasus,Georgia,Tbilisi,1205,4.1,3.2,,,,lowest,17
+Caucasus,Georgia,Batumi,1280,16.5,5.0,,,,lowest,17
+Middle East,Turkey,Istanbul,1900,32.5,0.0,30.0,,,high,12
+Central Europe,Poland,Warsaw,4500,-0.7,3.0,6.2,950,1380,medium,22
+Central Europe,Czechia,Prague,6400,9.0,7.0,4.2,,,high,16
+Central Europe,Hungary,Budapest,4324,,,6.5,,,medium,16
+Central Europe,Slovakia,Bratislava,3845,,,4.5,,,medium,16
+Central Europe,Germany,,,0.0,0.0,3.8,2200,3200,high,12
+Central Europe,Austria,,,-2.0,-2.0,3.8,,,high,10
+Eastern Europe,Romania,Bucharest,2300,7.8,8.0,6.0,650,800,low,21
+Eastern Europe,Bulgaria,Sofia,2250,14.8,6.0,,,,low,19
+Eastern Europe,Serbia,Belgrade,,11.5,2.0,,,,medium,13
+Eastern Europe,Moldova,Chisinau,,,,,,,medium,11
+Eastern Europe,Ukraine,Kyiv,1850,3.3,12.5,,,,base,
+Northern Europe,Sweden,,,4.0,4.0,1.75,,,high,15
+Northern Europe,Finland,Helsinki,,-3.5,-1.0,2.67,,,high,11
+Northern Europe,Lithuania,Vilnius,,,5.0,,,,medium,16
+Northern Europe,Latvia,Riga,,,4.0,,,,medium,14
+Northern Europe,Estonia,Tallinn,,,4.0,,,,medium,14
