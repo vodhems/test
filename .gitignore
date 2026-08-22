@@ -1,0 +1,22 @@
+# Ключі доступу — НІКОЛИ не потрапляють у репозиторій
+.env
+.env.*
+!.env.example
+
+# Локальні бази даних
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# Згенерований SQL міграції (може містити дані клієнтів)
+/out/
+/migration-out/
+
+# Службове
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.DS_Store
